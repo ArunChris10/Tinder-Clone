@@ -1,0 +1,7 @@
+Tinder Clone-MERN stack
+
+Frontend-ReactJS
+Backend-NodeJS & ExpressJS
+Database-MongoDB
+Frontend_Hosting-Firebase
+Backend_Hosting-Heroku
